@@ -1,0 +1,10 @@
+[
+  {
+    version: {
+      Major: "2022",
+      Minor: "12",
+      Build: "20",
+      Revision: "01"
+    }
+  }
+]
